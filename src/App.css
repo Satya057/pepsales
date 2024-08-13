@@ -1,0 +1,9 @@
+.App {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.swimlanes {
+  display: flex;
+  justify-content: space-around;
+}
